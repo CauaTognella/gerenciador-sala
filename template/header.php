@@ -38,4 +38,4 @@
             </div>
         </div>
     </nav>
-    <?php include './template/modal-form.php' ?>
+    <?php include './template/modal-reserva.php' ?>

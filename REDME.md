@@ -44,5 +44,5 @@
             - horario da turma
 
 --git
-
+git comit -m "comentario"
 --
