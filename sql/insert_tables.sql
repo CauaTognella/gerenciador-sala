@@ -1,4 +1,4 @@
-INSERT INTO tb_sala (identificacao, quant_suporte_alunos, tipo_sala, status) VALUES
+INSERT INTO tb_sala (identificacao, quant_suporte_aluno, tipo_sala, status) VALUES
 ('SALA 01', 30, 'Convencional', 1),
 ('SALA 02', 25, 'Convencional', 1),
 ('SALA 03', 35, 'Convencional', 1),
